@@ -1,0 +1,19 @@
+style.css
+body{
+	background: white;
+}
+
+
+#nav{
+	color: blue; text-indent: 10px
+}
+#content{
+ background:lightgrey; 
+}
+#main {
+
+	background: lightgrey; width: 1100px; margin-right: auto;margin-left: auto;
+}
+#footer{
+	color: green;
+}
